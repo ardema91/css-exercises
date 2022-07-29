@@ -1,0 +1,14 @@
+.odd {
+background-color: rgb(211, 88, 88);
+font-family: Verdana, "DejaVu Sans", sans-serif;
+} 
+
+.oddish {
+    font-size: 24px;
+}
+
+#two {
+    background-color: rgb(48, 48, 182); font-size: 36px;
+}
+
+#four { font-size: 24px; background-color: rgb(136, 206, 136)}
