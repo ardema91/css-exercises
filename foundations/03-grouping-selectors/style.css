@@ -1,0 +1,12 @@
+#one {
+    background-color: rgb(77, 77, 77); color: rgb(230, 230, 230)
+}
+
+#two {
+    background-color: rgb(206, 206, 133);
+}
+
+.both {
+    font-size: 28px;
+    font-family: Helvetica; "Times New Roman"; sans-serif;
+}
